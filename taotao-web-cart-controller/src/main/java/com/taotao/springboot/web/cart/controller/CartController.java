@@ -36,6 +36,7 @@ public class CartController {
 
     @Value("${CART_KEY}")
     private String CART_KEY;
+
     @Value("${CART_EXPIER}")
     private Integer CART_EXPIER;
 
