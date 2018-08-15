@@ -1,0 +1,17 @@
+*/src/main/webapp/WEB-INF/classes
+.project
+.classpath
+*.MF
+.settings
+*.iws
+*.ipr
+log.path_IS_UNDEFINED
+.idea
+*.iml
+log.*/
+logs/
+.git/
+taotao-*/.settings
+taotao-*/target
+taotao-*/bin
+taotao-*/*.iml
